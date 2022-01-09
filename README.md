@@ -1,1 +1,0 @@
-Hasil Running Total RAM
